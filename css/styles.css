@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0;
+}
+
+html {
+    font-family: 'Karla', sans-serif;
+
+}
+
+
+/* join our community section styles */
+.joc {
+    background-color:snow;
+    height: 50vh;
+    width: 100%;
+
+}
+/* common styles  */
+.sub-section {
+    height: 50vh;
+    width: 50%;
+    float: left;
+}
+ /* monthly subscription */
+ .ms {
+     background-color:hsl(hue, saturation, lightness);
+    
+ } 
+
+ /* why us */
+ .wu {
+     background-color:rgba(red, green, blue, alpha);
+    
+ }
+
+
